@@ -6,10 +6,10 @@ Here are some areas important to me:
 
 🌱 I’m currently learning Azure, Microsoft Server, CCNA1 & 2
 
-💬 Ask me about hardware, databases and basic networking
+💬 Ask me about hardware, databases, networking and cloud platforms
 
-📫 How to reach me: c.shkardoon@gmail.com
+📫 How to reach me: cammug31@student.wintec.ac.nz
 
 😄 Check out my Portfolio https://McStorm97.github.io/portfolio/
 
-⚡ Fun fact: I love learning new fun facts
+⚡ Fun fact: I am lerning German
