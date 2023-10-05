@@ -10,6 +10,5 @@ Here are some areas important to me:
 
 📫 How to reach me: cammug31@student.wintec.ac.nz
 
-😄 Check out my Portfolio https://McStorm97.github.io/portfolio/
 
 ⚡ Fun fact: I am lerning German
